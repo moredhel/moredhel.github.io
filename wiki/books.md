@@ -28,3 +28,7 @@ This second book follows the life of Ward, a hero who has been left in the after
 A story about a young woman who discovers she has super-powers. She then struggles to find a place in the world and in doing the right thing to achieve her goals. It is a really interesting read about the struggles of fitting in and fighting against the system. This is a really interesting read but does take a bit of time to build up. The general concensus is around 20 chapters before things start really getting going.
 
 Good luck reading it! It is a fun ride
+
+### Player of Games (Ian M. Banks)
+
+This is a book that I really enjoyed and have read multiple times. I really feel like it does a good job of putting a mirror up to our culture (pun intended). It also has some really fun elements of how games work and what makes a game fun. I really loved this book and think it is a great introduction to Sci-Fi and the power of story-telling to provoke introspection. The Culture is also such a pleasure to read about and find out about a truly inspiring (although not perfect) structure for civilisation.
