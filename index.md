@@ -4,5 +4,5 @@ Hello all, this is that place where I write about and record things which are of
 
 ### Media
 
-- [movies](Movies)
-- [books](Books)
+- [Movies](#)
+- [Books](wiki/books.md)
