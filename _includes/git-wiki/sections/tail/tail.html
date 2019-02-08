@@ -6,7 +6,7 @@
 
 <script type="text/javascript">
     $(document).ready(function () {
-        if (document.location.pathname.search("wiki") != -1) {
+        if (document.location.pathname.search("/wiki") == 0) {
         tocbot.init({
           // Where to render the table of contents.
           tocSelector: '#toc',
