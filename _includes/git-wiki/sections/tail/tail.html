@@ -6,6 +6,7 @@
 
 <script type="text/javascript">
     $(document).ready(function () {
+        if (document.location.pathname.search("wiki") != -1) {
         tocbot.init({
           // Where to render the table of contents.
           tocSelector: '#toc',
@@ -14,6 +15,7 @@
           // Which headings to grab inside of the contentSelector element.
           headingSelector: 'h1, h2, h3, h4',
         });
+        }
         $(document.body).redLinks();
     });
 </script>
