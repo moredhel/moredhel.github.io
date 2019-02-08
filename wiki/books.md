@@ -1,7 +1,6 @@
 ---
-title: Whatever
+title: Books
 ---
-# Books
 
 ## Introduction
 
