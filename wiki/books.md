@@ -1,3 +1,6 @@
+---
+title: Whatever
+---
 # Books
 
 ## Introduction
