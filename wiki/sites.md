@@ -1,4 +1,6 @@
-# Services
+---
+title: Services
+---
 
 ## Preamble
 
