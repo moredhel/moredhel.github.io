@@ -9,7 +9,7 @@ A few words about things that I have watched. I watch way too much TV. So I migh
 
 ## T.V.
 
-> TODO: move this to its own Wiki page
+<!-- TODO: move this to its own Wiki page -->
 
 ### Dr. Who (S11)
 
