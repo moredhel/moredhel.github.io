@@ -6,10 +6,10 @@ layout: git-wiki-default
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
     <div class="post-item">
+        <h3 class="title">{{ post.title }}</h3>
         <p class="author">
             <span class="date">{{ post.date | date: "%-d %B %Y"}}</span>
         </p>
-        <h3 class="title">{{ post.title }}</h3>
         <div class="git-wiki-content">
             {{ post.excerpt }}
 
