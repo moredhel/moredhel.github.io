@@ -1,3 +1,7 @@
+---
+title: Contributing
+published: true
+---
 So normally this kind of post would be in the `CONTRIBUTING.md` file, but because I don't really want to figure out how to get Jekyll to render things correctly it will be done here and linked from the front page.
 
 It may seem weird to even have a contributing concept for a private blog/wiki allowing contribution from others. Oh well, it is what I have decided.
