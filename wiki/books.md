@@ -19,6 +19,10 @@ This second book follows the life of Ward, a hero who has been left in the after
 
 ## To Read
 
+### Fantasy/Sci-Fi
+
+#### [Jonathan Strange & Mr Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell)
+
 ### Philosophy
 
 [Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work), recommended by Jen. Apparently it is worth a read.
