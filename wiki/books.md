@@ -21,6 +21,7 @@ This second book follows the life of Ward, a hero who has been left in the after
 
 ## Lists
 
+- [Check GoodReads](https://www.goodreads.com/recommendations), ocassionally they have something
 - [Dark Fantasy](https://www.goodreads.com/genres/dark-fantasy)
 - [Most interesting Magic](https://www.goodreads.com/list/show/871.Most_Interesting_Magic_System)
 
