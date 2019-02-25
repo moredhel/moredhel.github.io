@@ -19,6 +19,11 @@ This second book follows the life of Ward, a hero who has been left in the after
 
 ## To Read
 
+## Lists
+
+- [Dark Fantasy](https://www.goodreads.com/genres/dark-fantasy)
+- [Most interesting Magic](https://www.goodreads.com/list/show/871.Most_Interesting_Magic_System)
+
 ### Fantasy/Sci-Fi
 
 #### [Jonathan Strange & Mr Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell)
