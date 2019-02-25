@@ -38,7 +38,7 @@ This second book follows the life of Ward, a hero who has been left in the after
 
 ### Philosophy
 
-[Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work), recommended by Jen. Apparently it is worth a read.
+[Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work)
 <!-- jen -->
 
 ## Read
