@@ -24,7 +24,7 @@ This second book follows the life of Ward, a hero who has been left in the after
 #### [Jonathan Strange & Mr Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell)
 <!-- coco -->
 
-#### [Farseer Trilogy](https://www.goodreads.com/book/show/10762697-the-farseer-trilogy?from_search=true)
+#### [Farseer Trilogy](https://www.goodreads.com/book/show/10762697-the-farseer-trilogy)
 <!-- coco -->
 
 ### Philosophy
