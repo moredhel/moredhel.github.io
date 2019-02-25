@@ -22,10 +22,15 @@ This second book follows the life of Ward, a hero who has been left in the after
 ### Fantasy/Sci-Fi
 
 #### [Jonathan Strange & Mr Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell)
+<!-- coco -->
+
+#### [Farseer Trilogy](https://www.goodreads.com/book/show/10762697-the-farseer-trilogy?from_search=true)
+<!-- coco -->
 
 ### Philosophy
 
 [Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work), recommended by Jen. Apparently it is worth a read.
+<!-- jen -->
 
 ## Read
 
