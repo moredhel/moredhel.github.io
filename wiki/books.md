@@ -27,6 +27,9 @@ This second book follows the life of Ward, a hero who has been left in the after
 #### [Farseer Trilogy](https://www.goodreads.com/book/show/10762697-the-farseer-trilogy)
 <!-- coco -->
 
+#### [The Stories of Ray Bradbury](https://www.goodreads.com/book/show/120552.The_Stories_of_Ray_Bradbury?)
+<!-- coco -->
+
 ### Philosophy
 
 [Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work), recommended by Jen. Apparently it is worth a read.
