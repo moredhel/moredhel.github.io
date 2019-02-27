@@ -48,6 +48,9 @@ This second book follows the life of Ward, a hero who has been left in the after
 #### Broken wings - John Douglas and Mark Olshaker
 <!-- frederic -->
 
+#### The Perfect Nanny: A Novel
+<!-- frederic -->
+
 ### Philosophy
 
 [Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work)
