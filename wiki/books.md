@@ -36,6 +36,18 @@ This second book follows the life of Ward, a hero who has been left in the after
 #### [The Stories of Ray Bradbury](https://www.goodreads.com/book/show/120552.The_Stories_of_Ray_Bradbury?)
 <!-- coco -->
 
+#### [Running Man](https://lmgtfy.com?q=running+man+stephen+king)
+<!-- frederic -->
+
+#### The Stranger - Albert Camus
+<!-- frederic -->
+
+#### Jackdaws - Ken Follett
+<!-- frederic -->
+
+#### Broken wings - John Douglas and Mark Olshaker
+<!-- frederic -->
+
 ### Philosophy
 
 [Loves Work](https://www.goodreads.com/book/show/759251.Love_s_Work)
