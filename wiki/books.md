@@ -1,5 +1,6 @@
 ---
 title: Books
+published: true
 ---
 
 ## Introduction
@@ -41,6 +42,8 @@ This second book follows the life of Ward, a hero who has been left in the after
 
 #### The Stranger - Albert Camus
 <!-- frederic -->
+
+- butting in here, this book is great.
 
 #### Jackdaws - Ken Follett
 <!-- frederic -->
