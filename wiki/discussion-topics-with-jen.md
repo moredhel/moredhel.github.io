@@ -10,4 +10,9 @@ there was nothing, so let's begin. I have put down a few of the questions that w
 
 - What is a resource?
 - What is necessity (vs. want)?
-	- Does this tie into what humanities' end-goals are? (should they have end-goals?)
+    - Does this tie into what humanities' end-goals are? (should they have end-goals?)
+    
+What is a thing? What value do we give to what?
+- [Bruno Latour](www.bruno-latour.fr/sites/default/files/50-MISSING-MASSES-GB.pdf)
+- [The sociology of a few mundane artifacts](www.bruno-latour.fr/sites/default/files/50-MISSING-MASSES-GB.pdf)
+
